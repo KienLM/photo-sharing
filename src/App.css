@@ -1,0 +1,8 @@
+.main-content {
+  padding: 80px 16px 24px;
+}
+
+.main-grid-item {
+  padding: 16px;
+  min-height: calc(100vh - 112px);
+}
